@@ -16,5 +16,6 @@ consol.log(mathTest(2, -2));
 consol.log(mathTest(2, 8));
 consol.log(mathTest(3, 3));
 consol.log(mathTest(0, 0));
+mathTest (2, 2);
 // Only change code above this line   
 module.exports = funcWithArg;
