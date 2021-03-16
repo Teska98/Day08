@@ -4,4 +4,4 @@
    }
 console.log(randomRangeNumber(2, 30))
 // Only change code above this line   
-module.exports = randomInteger;
+module.exports = randomRangeNumber;
