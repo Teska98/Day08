@@ -10,7 +10,6 @@
   // Only change code below this line
 }
 consol.log(mathTest(2, 2));
-consol.log(mathTest(2, 2));
 consol.log(mathTest(-2, 2));
 consol.log(mathTest(2, -2));
 consol.log(mathTest(2, 8));
